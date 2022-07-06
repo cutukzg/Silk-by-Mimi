@@ -37,7 +37,7 @@ img:hover {
 .center {
     margin: 50;
     position: absolute;
-    top: 200%;
+    top: 600%;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
